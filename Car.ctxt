@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=efficiency
+comment0.target=Car(double)
+comment0.text=\r\n\ Constructor\ for\ Car\ that\ specifies\ fuel\ efficiency\r\n
+comment1.params=gallons
+comment1.target=void\ addGas(double)
+comment1.text=\r\n\ Adds\ the\ specified\ number\ of\ gallons\ of\ fuel\ to\ this\ car's\ tank.\r\n\r\n\ @pre\ \ \ \ \ \ \ \ the\ specified\ number\ of\ gallons\ will\ not\ exceed\ this\ car's\ tank\ capacity\r\n\ \ \ \ \ \ \ \ \ \ \ \ )\r\n\ @post\ \ \ \ gallons\ of\ number\ of\ gallons\ of\ fuel\ to\ add\ to\ this\ car's\ tank\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ @param\ \ \ \ y\ \ \ \ description\ of\ parameter\ y\r\n\ @return\ \ \ \ description\ of\ the\ return\ value\r\n
+comment2.params=miles
+comment2.target=void\ drive(double)
+comment2.text=\r\n\ Reduces\ the\ fuel\ in\ this\ car's\ tank\ based\ on\ this\ car's\ fuel\r\n\ efficiency\ and\ the\ specified\ number\ of\ miles\ driven.\r\n\ \r\n\ \ @pre\ \ \ \ the\ specified\ number\ of\ miles\ will\ not\ consume\ more\ than\ the\ amount\ of\ fuel\ in\ this\ car's\ tank.\r\n\ \ @param\ \ miles\ the\ number\ of\ miles\ driven\r\n
+comment3.params=
+comment3.target=double\ getGasInTank()
+comment3.text=\r\n\ Returns\ the\ number\ of\ gallons\ of\ gas\ remaining\ in\ this\ car's\ tank.\r\n\ \r\n\ @return\ the\ number\ of\ gallons\ of\ gas\ remaining\ in\ this\ car's\ tank.\r\n\ \r\n
+numComments=4
